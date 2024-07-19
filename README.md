@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Tharushi Jayawardana</h1>
-<h3 align="center">A University student from Sri lanka</h3>
+<h3 align="center">A University Student from Sri Lanka</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nizz15&label=Profile%20views&color=0e75b6&style=flat" alt="nizz15" /> </p>
 
-- 🌱 I’m currently learning **IT**
+- 🌱 I’m currently learning **Information Technology**
 
-- 👨‍💻 I'm undergraduate in Uva Wellassa University of Sri Lanka
+- 👨‍💻 I'm Undergraduate in Uva Wellassa University of Sri Lanka.
 
 - 💬 Ask me about **Networking**
 
